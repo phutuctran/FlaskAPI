@@ -1,5 +1,5 @@
 
-phukienadv.xyz {
+www.phukienadv.xyz {
  reverse_proxy localhost:8000
 }
 
