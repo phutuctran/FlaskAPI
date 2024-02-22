@@ -1,0 +1,3 @@
+http://103.106.105.137 {
+ reverse_proxy localhost:8000
+}
